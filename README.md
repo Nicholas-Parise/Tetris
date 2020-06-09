@@ -11,9 +11,9 @@ Planned features:
 V.1
 update notes:
 -
-- Added Offsets
--
--
--
+- Added Assets
+- Hittest
+- Random blocks
+- 
 
 <br>
