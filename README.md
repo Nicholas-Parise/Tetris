@@ -4,7 +4,7 @@
 
 Planned features:
 -
-- continue A.I algorithm
+- 
 
 <br>
 
