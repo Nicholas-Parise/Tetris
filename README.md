@@ -4,6 +4,9 @@
 
 Planned features:
 -
+- fixed rotations
+- menu
+- sound
 - 
 
 <br>
