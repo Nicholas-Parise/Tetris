@@ -1,0 +1,9 @@
+#ifndef _Icon_rc
+#define _Icon_rc
+
+//MAINICON ICON "Tetris_Logo.ico"
+
+MAINICON ICON "New_Icon.ico"
+
+
+#endif
